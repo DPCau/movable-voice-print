@@ -49,7 +49,7 @@ This tool uses speech recognition (Whisper) to extract word/character-level time
 
 ### 2. Run Script  
 ```python  
-python main.py --input input_audio.mp3  
+python main.py --input input.mp3  
 ```  
 
 ### 3. Optional Parameters  

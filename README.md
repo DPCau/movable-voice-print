@@ -53,7 +53,7 @@
 
 ### 2. 运行脚本  
 ```python  
-python main.py --input input_audio.mp3
+python main.py --input input.mp3
 ```  
 
 ### 3. 可选参数  
